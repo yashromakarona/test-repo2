@@ -7,4 +7,4 @@ num2 = int(second)
 result = num1 + num2
 
 print("Sum: ", result)
-
+print("수고했어 태우야")
